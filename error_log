@@ -1,0 +1,58 @@
+[11-Mar-2019 10:59:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user '
+bdsentin_khan'@'localhost' (using password: YES) in /home/bdsentin/public_html/iecc/class/connection.php on line 7
+[11-Mar-2019 10:59:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user '
+bdsentin_khan'@'localhost' (using password: YES) in /home/bdsentin/public_html/iecc/class/connection.php on line 7
+[11-Mar-2019 10:59:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdsentin/public_html/iecc/class/user.php on line 118
+[11-Mar-2019 10:59:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/bdsentin/public_html/iecc/include/menu.php:38
+Stack trace:
+#0 /home/bdsentin/public_html/iecc/include/header.php(147): include()
+#1 /home/bdsentin/public_html/iecc/bangladesh.php(1): include('/home/bdsentin/...')
+#2 {main}
+  thrown in /home/bdsentin/public_html/iecc/include/menu.php on line 38
+[11-Mar-2019 11:00:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bdsentin_khan'@'localhost' (using password: YES) in /home/bdsentin/public_html/iecc/class/connection.php on line 6
+[11-Mar-2019 11:00:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bdsentin_khan'@'localhost' (using password: YES) in /home/bdsentin/public_html/iecc/class/connection.php on line 6
+[11-Mar-2019 11:00:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdsentin/public_html/iecc/class/user.php on line 118
+[11-Mar-2019 11:00:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/bdsentin/public_html/iecc/include/menu.php:38
+Stack trace:
+#0 /home/bdsentin/public_html/iecc/include/header.php(147): include()
+#1 /home/bdsentin/public_html/iecc/bangladesh.php(1): include('/home/bdsentin/...')
+#2 {main}
+  thrown in /home/bdsentin/public_html/iecc/include/menu.php on line 38
+[11-Mar-2019 11:00:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bdsentin_khan'@'localhost' (using password: YES) in /home/bdsentin/public_html/iecc/class/connection.php on line 6
+[11-Mar-2019 11:00:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bdsentin_khan'@'localhost' (using password: YES) in /home/bdsentin/public_html/iecc/class/connection.php on line 6
+[11-Mar-2019 11:00:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdsentin/public_html/iecc/class/user.php on line 118
+[11-Mar-2019 11:00:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/bdsentin/public_html/iecc/include/menu.php:38
+Stack trace:
+#0 /home/bdsentin/public_html/iecc/include/header.php(147): include()
+#1 /home/bdsentin/public_html/iecc/bangladesh.php(1): include('/home/bdsentin/...')
+#2 {main}
+  thrown in /home/bdsentin/public_html/iecc/include/menu.php on line 38
+[11-Mar-2019 11:00:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bdsentin_khan'@'localhost' (using password: YES) in /home/bdsentin/public_html/iecc/class/connection.php on line 6
+[11-Mar-2019 11:00:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bdsentin_khan'@'localhost' (using password: YES) in /home/bdsentin/public_html/iecc/class/connection.php on line 6
+[11-Mar-2019 11:00:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdsentin/public_html/iecc/class/user.php on line 118
+[11-Mar-2019 11:00:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/bdsentin/public_html/iecc/include/menu.php:38
+Stack trace:
+#0 /home/bdsentin/public_html/iecc/include/header.php(147): include()
+#1 /home/bdsentin/public_html/iecc/bangladesh.php(1): include('/home/bdsentin/...')
+#2 {main}
+  thrown in /home/bdsentin/public_html/iecc/include/menu.php on line 38
+[11-Mar-2019 11:00:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bdsentin_khan'@'localhost' (using password: YES) in /home/bdsentin/public_html/iecc/class/connection.php on line 6
+[11-Mar-2019 11:00:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'bdsentin_khan'@'localhost' (using password: YES) in /home/bdsentin/public_html/iecc/class/connection.php on line 6
+[11-Mar-2019 11:00:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bdsentin/public_html/iecc/class/user.php on line 118
+[11-Mar-2019 11:00:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on null in /home/bdsentin/public_html/iecc/include/menu.php:38
+Stack trace:
+#0 /home/bdsentin/public_html/iecc/include/header.php(147): include()
+#1 /home/bdsentin/public_html/iecc/bangladesh.php(1): include('/home/bdsentin/...')
+#2 {main}
+  thrown in /home/bdsentin/public_html/iecc/include/menu.php on line 38
+[11-Mar-2019 11:49:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bdsentin/public_html/iecc/article.php:2) in /home/bdsentin/public_html/iecc/include/header.php on line 3
+[12-Mar-2019 08:50:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bdsentin/public_html/iecc/article.php:2) in /home/bdsentin/public_html/iecc/include/header.php on line 3
+[12-Mar-2019 10:06:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bdsentin/public_html/iecc/event-details.php:2) in /home/bdsentin/public_html/iecc/include/header.php on line 3
+[12-Mar-2019 10:38:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bdsentin/public_html/iecc/about.php:2) in /home/bdsentin/public_html/iecc/include/header.php on line 3
+[12-Mar-2019 16:17:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bdsentin/public_html/iecc/article.php:2) in /home/bdsentin/public_html/iecc/include/header.php on line 3
+[13-Mar-2019 09:59:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bdsentin/public_html/iecc/about.php:2) in /home/bdsentin/public_html/iecc/include/header.php on line 3
+[13-Mar-2019 09:59:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bdsentin/public_html/iecc/about.php:2) in /home/bdsentin/public_html/iecc/include/header.php on line 3
+[15-Mar-2019 22:35:31 UTC] PHP Parse error:  syntax error, unexpected '$update_password' (T_VARIABLE), expecting ',' or ';' in /home/bdsentin/public_html/iecc/reset.php on line 95
+[15-Mar-2019 22:35:57 UTC] PHP Parse error:  syntax error, unexpected '$update_password' (T_VARIABLE), expecting ',' or ';' in /home/bdsentin/public_html/iecc/reset.php on line 95
+[15-Mar-2019 22:36:08 UTC] PHP Parse error:  syntax error, unexpected '$update_password' (T_VARIABLE), expecting ',' or ';' in /home/bdsentin/public_html/iecc/reset.php on line 95
+[15-Mar-2019 22:36:14 UTC] PHP Parse error:  syntax error, unexpected '$update_password' (T_VARIABLE), expecting ',' or ';' in /home/bdsentin/public_html/iecc/reset.php on line 95
